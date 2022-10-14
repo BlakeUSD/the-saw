@@ -38,6 +38,10 @@ li {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-right: 8px;
-    
+    margin-right: 8px;   
+}
+
+.row img {
+    object-fit: contain;
+    padding: 16px;
 }
