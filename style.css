@@ -42,6 +42,10 @@ li {
   margin-right: 8px;
 }
 
+.row {
+  max-width: 1200px;
+}
+
 .row img {
   object-fit: contain;
   padding: 16px;
