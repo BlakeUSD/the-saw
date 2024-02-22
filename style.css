@@ -31,17 +31,6 @@ li {
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
 
-.navbarLeft a img {
-  width: 30px;
-}
-
-.navbarRight__links {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-right: 8px;
-}
-
 .row {
   max-width: 1200px;
 }
